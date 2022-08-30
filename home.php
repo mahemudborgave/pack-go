@@ -27,10 +27,10 @@
 
    <section class="header">
 
-      <a href="home.php" class="logo">Trip<span>A</span>Travel</a>
+      <a href="home.php" class="logo">Pack<span>&</span>Go</a>
 
       <nav class="navbar">
-         <a href="home.php">land here</a>
+         <a href="home.php" class="active">land here</a>
          <a href="about.php">who we are</a>
          <a href="package.php">get packages</a>
          <a href="book.php">make bookings</a>
@@ -42,7 +42,7 @@
 
             <div class="search-dropdown">
                <input type="text">
-               <a href="#"><i class="fa fa-check" aria-hidden="true"></i></a>
+               <a href="package.php"><i class="fa fa-check" aria-hidden="true"></i></a>
             </div>
          </div>
 
@@ -55,7 +55,7 @@
 
    <!-- home section starts  -->
 
-   <section class="home">
+   <section class="home"  onclick="searchDropToggle_1()">
 
       <div class="swiper home-slider">
 
@@ -63,23 +63,23 @@
 
             <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat">
                <div class="content">
-                  <span>explore, discover, travel</span>
-                  <h3>travel arround the world</h3>
+                  <span>keep calm and travel on</span>
+                  <h3>explore the world with pack&go</h3>
                   <a href="package.php" class="btn">discover more</a>
                </div>
             </div>
 
             <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no-repeat">
                <div class="content">
-                  <span>explore, discover, travel</span>
-                  <h3>discover the new places</h3>
+                  <span>keep calm and travel on</span>
+                  <h3>taste the thunder of world</h3>
                   <a href="package.php" class="btn">discover more</a>
                </div>
             </div>
 
             <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no-repeat">
                <div class="content">
-                  <span>explore, discover, travel</span>
+                  <span>keep calm and travel on</span>
                   <h3>make your tour worthwhile</h3>
                   <a href="package.php" class="btn">discover more</a>
                </div>

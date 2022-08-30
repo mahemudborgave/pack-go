@@ -64,4 +64,10 @@ function searchDropToggle()
    // }
 
    dropdown.style.visibility = "visible";
+
+}
+
+function searchDropToggle_1() {
+   var dropdown = document.querySelector(".second-flex-item .search-dropdown");
+   dropdown.style.visibility = "hidden";
 }

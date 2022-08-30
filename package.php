@@ -32,13 +32,18 @@
       <nav class="navbar">
          <a href="home.php">land here</a>
          <a href="about.php">who we are</a>
-         <a href="package.php">get packages</a>
+         <a href="package.php" class="active">get packages</a>
          <a href="book.php">make bookings</a>
       </nav>
 
       <div class="second-flex-item">
          <div>
-            <div class="search-button"><i class="fa fa-search"></i></div>
+            <div class="search-button" onclick="searchDropToggle()"><i class="fa fa-search"></i></div>
+
+            <div class="search-dropdown">
+               <input type="text">
+               <a href="package.php"><i class="fa fa-check" aria-hidden="true"></i></a>
+            </div>
          </div>
 
          <div id="menu-btn" class="fas fa-bars"></div>
@@ -48,8 +53,8 @@
 
    <!-- header section ends -->
 
-   <div class="heading" style="background:url(images/header-bg-2.png) no-repeat">
-      <h1>packages</h1>
+   <div class="heading" style="background:url(images/header-bg-2.png) no-repeat"  onclick="searchDropToggle_1()">
+      <h1>our packages</h1>
    </div>
 
    <!-- packages section starts  -->

@@ -30,15 +30,20 @@
       <a href="home.php" class="logo">Pack<span>&</span>Go</a>
 
       <nav class="navbar">
-      <a href="home.php">land here</a>
-         <a href="about.php">who we are</a>
+         <a href="home.php">land here</a>
+         <a href="about.php" class="active">who we are</a>
          <a href="package.php">get packages</a>
          <a href="book.php">make bookings</a>
       </nav>
 
       <div class="second-flex-item">
          <div>
-            <div class="search-button"><i class="fa fa-search"></i></div>
+            <div class="search-button" onclick="searchDropToggle()"><i class="fa fa-search"></i></div>
+
+            <div class="search-dropdown">
+               <input type="text">
+               <a href="package.php"><i class="fa fa-check" aria-hidden="true"></i></a>
+            </div>
          </div>
 
          <div id="menu-btn" class="fas fa-bars"></div>
@@ -48,7 +53,7 @@
 
    <!-- header section ends -->
 
-   <div class="heading" style="background:url(images/header-bg-1.png) no-repeat">
+   <div class="heading" style="background:url(images/header-bg-1.png) no-repeat"  onclick="searchDropToggle_1()">
       <h1>we are ...</h1>
    </div>
 
@@ -105,7 +110,7 @@
                <p>We have just returned from a Thailand Holiday booked through Travel Online. The holiday was perfect and everything went according to schedule as booked. We were a little apprehensive because after booking and prior to departure there was little to no contact from Travel Online, despite my phone calls and emails.
                <h3>Lory Donald</h3>
                <span>traveler</span>
-               
+
             </div>
 
             <div class="swiper-slide slide">
@@ -131,7 +136,7 @@
                <p>Excellent service and would highly recommend booking. We swapped our dates due to covid and whilst it was a little difficult getting in touch initially - once we did the service we received was excellent.</p>
                <h3>Elaine Davies</h3>
                <span>traveler</span>
-               
+
             </div>
 
             <div class="swiper-slide slide">
@@ -145,7 +150,7 @@
                <p>I had full communication at all times with our travel agent. Prompt responses when I needed to know an answer to one of my questions.</p>
                <h3>john deo</h3>
                <span>Darcy Mcdonald</span>
-               
+
             </div>
 
             <div class="swiper-slide slide">
@@ -158,7 +163,7 @@
                <p>Website was not complicated. Great deals and package options. Prompy and effecient service. Will Definately use many times more</p>
                <h3>Sergio Vas</h3>
                <span>traveler</span>
-               
+
             </div>
 
             <div class="swiper-slide slide">
@@ -172,7 +177,7 @@
                <p>Excellent service, super efficient, easy & great value. Would certainly recommend to friends. It made it all so easy, Thank you!!</p>
                <h3>Tracey Gapper</h3>
                <span>traveler</span>
-               
+
             </div>
 
          </div>
