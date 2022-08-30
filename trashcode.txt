@@ -1,0 +1,8 @@
+images in the abuout - review section 
+----------------------------------------
+108.<img src="images/pic-1.png" alt="">
+121.<img src="images/pic-2.png" alt="">
+133.<img src="images/pic-3.png" alt="">
+147.<img src="images/pic-4.png" alt="">
+161.<img src="images/pic-5.png" alt="">
+172.<img src="images/pic-6.png" alt="">
