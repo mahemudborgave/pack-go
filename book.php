@@ -30,7 +30,7 @@
       <a href="home.php" class="logo">Pack<span>&</span>Go</a>
 
       <nav class="navbar">
-         <a href="home.php">landing</a>
+         <a href="home.php">land here</a>
          <a href="about.php">who we are</a>
          <a href="package.php">get packages</a>
          <a href="book.php">make bookings</a>

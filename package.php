@@ -30,7 +30,7 @@
       <a href="home.php" class="logo">Pack<span>&</span>Go</a>
 
       <nav class="navbar">
-      <a href="home.php">landing</a>
+         <a href="home.php">land here</a>
          <a href="about.php">who we are</a>
          <a href="package.php">get packages</a>
          <a href="book.php">make bookings</a>
@@ -65,8 +65,8 @@
                <img src="images/img-1.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Taj Mahal</h3>
+               <p>Visit one of the seven wonders!</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -76,8 +76,8 @@
                <img src="images/img-2.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Indonesia</h3>
+               <p>Have a visit to the blossoming glory</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -87,8 +87,8 @@
                <img src="images/img-3.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Bali</h3>
+               <p>Get the pleasure of water silence</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -98,8 +98,8 @@
                <img src="images/img-4.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Japan</h3>
+               <p>Most famous places in the Japan </p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -109,8 +109,8 @@
                <img src="images/img-5.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Paris</h3>
+               <p>Visit the city of light embedded with arts and culture!</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -120,8 +120,8 @@
                <img src="images/img-6.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Maldives</h3>
+               <p>Flaunting clear cyan blue water and sandy beaches</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -131,8 +131,8 @@
                <img src="images/img-7.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Costa Rica</h3>
+               <p>Abundance of natural beauty</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -142,8 +142,8 @@
                <img src="images/img-8.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Prague</h3>
+               <p>Ahistorical and cultural excursion</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -153,8 +153,8 @@
                <img src="images/img-9.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Thailand</h3>
+               <p>Where summer beach fashion truly comes alive</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -164,8 +164,8 @@
                <img src="images/img-10.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Rajasthan</h3>
+               <p>The worlds 20th-largest desert</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -175,8 +175,8 @@
                <img src="images/img-11.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Beijing</h3>
+               <p>Like the great wall see the imperial palace</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -186,8 +186,8 @@
                <img src="images/img-12.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+               <h3>Tekapo</h3>
+               <p>Striking natural beauty friendly citizens</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>

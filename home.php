@@ -171,8 +171,8 @@
                <img src="images/img-1.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+               <h3>Taj Mahal</h3>
+               <p>Visit one of the seven wonders</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -182,8 +182,8 @@
                <img src="images/img-2.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+               <h3>Indonesia</h3>
+               <p>Have a visit to the blossoming glory</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
@@ -193,8 +193,8 @@
                <img src="images/img-3.jpg" alt="">
             </div>
             <div class="content">
-               <h3>adventure & tour</h3>
-               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos, sint!</p>
+               <h3>Bali</h3>
+               <p>Get the pleasure of water silence</p>
                <a href="book.php" class="btn">book now</a>
             </div>
          </div>
