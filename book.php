@@ -53,7 +53,7 @@
 
    <!-- header section ends -->
 
-   <div class="heading" style="background:url(images/header-bg-3.png) no-repeat"  onclick="searchDropToggle_1()">
+   <div class="heading" style="background:url(images/header-bg-3.png) no-repeat">
       <h1>make booking</h1>
    </div>
 

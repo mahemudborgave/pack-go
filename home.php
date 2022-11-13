@@ -41,7 +41,7 @@
             <div class="search-button" onclick="searchDropToggle()"><i class="fa fa-search"></i></div>
 
             <div class="search-dropdown">
-               <input type="text">
+               <input type="text" placeholder="Search Destination">
                <a href="package.php"><i class="fa fa-check" aria-hidden="true"></i></a>
             </div>
          </div>
@@ -55,7 +55,7 @@
 
    <!-- home section starts  -->
 
-   <section class="home"  onclick="searchDropToggle_1()">
+   <section class="home">
 
       <div class="swiper home-slider">
 

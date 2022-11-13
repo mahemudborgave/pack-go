@@ -189,6 +189,9 @@ section {
    align-items: center;
    font-size: 20px;
    display: flex;
+}
+
+.toggleForSearch {
    visibility: hidden;
 }
 

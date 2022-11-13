@@ -40,7 +40,7 @@ var swiper = new Swiper(".reviews-slider", {
 let loadMoreBtn = document.querySelector('.packages .load-more .btn');
 let currentItem = 3;
 
-loadMoreBtn.onclick = () =>{
+loadMoreBtn.onclick = () => {
    let boxes = [...document.querySelectorAll('.packages .box-container .box')];
    for (var i = currentItem; i < currentItem + 3; i++){
       boxes[i].style.display = 'inline-block';
@@ -51,23 +51,14 @@ loadMoreBtn.onclick = () =>{
    }
 }
 
-function searchDropToggle()
-{
+function searchDropToggle(){
    var dropdown = document.querySelector(".second-flex-item .search-dropdown");
-   // alert(getPropertyValue(dropdown.style.visibility));
-   // alert (dropdown.style.getPropertyValue("visibility"));
-   // if(dropdown.style.visibility == "visible") {
-   //    dropdown.style.visibility = "invisible";
-   // }
-   // else{
-   //    dropdown.style.visibility = "visible";
-   // }
-
-   dropdown.style.visibility = "visible";
-
+   dropdown.classList.toggle("toggleForSearch");
 }
 
-function searchDropToggle_1() {
-   var dropdown = document.querySelector(".second-flex-item .search-dropdown");
-   dropdown.style.visibility = "hidden";
-}
+// function searchDropToggle_1() {
+//    var dropdown = document.querySelector(".second-flex-item .search-dropdown");
+//    dropdown.style.visibility = "hidden";
+// }
+
+
