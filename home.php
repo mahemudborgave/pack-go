@@ -34,6 +34,7 @@
          <a href="about.php">who we are</a>
          <a href="package.php">get packages</a>
          <a href="book.php">make bookings</a>
+         <!-- A -->
       </nav>
 
       <div class="second-flex-item">
